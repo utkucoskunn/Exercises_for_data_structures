@@ -5,6 +5,7 @@ Question 1. Write the Binary-Search-Tree stages of the array.
 Example: root is x. y is found to the right of root. To its left is a z, etc.
 
 Answer 1.
+Root=5
 
 		 5
 	       /   \
